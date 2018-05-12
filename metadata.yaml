@@ -1,0 +1,31 @@
+_repo: The-Religion-of-the-Indians-of-California_35745
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kroeber, A. L. (Alfred Louis)
+    alias: Kroeber, Alfred Louis
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '40065'
+    url: http://www.gutenberg.org/2009/agents/40065
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_L._Kroeber
+description: ''
+gutenberg_issued: '2011-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35745'
+  lccn: '07036301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: University of California Publications in American Archaeology and Ethnology,
+  Vol. 4, No. 6
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- California -- Religion'
+title: The Religion of the Indians of California
+url: http://www.gutenberg.org/ebooks/35745
